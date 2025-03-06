@@ -1,0 +1,1 @@
+A simple event bus for a loosely coupled architecture
