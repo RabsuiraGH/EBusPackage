@@ -1,0 +1,8 @@
+{
+  "name": "com.rabsuiragh.ebus",
+  "version": "1.0.0",
+  "displayName": "Event Bus EBus",
+  "description": "Simple event bus",
+  "unity": "2020.3",
+  "dependencies": {}
+}
