@@ -1,8 +1,14 @@
 {
   "name": "com.rabsuiragh.ebus",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "displayName": "Event Bus EBus",
   "description": "Simple event bus",
+  "author": 
+  {
+    "name": "Rabsuira",
+    "email": "rabsuira@proton.me",
+    "url": "https://github.com/RabsuiraGH"
+  },
   "unity": "2020.3",
   "dependencies": {}
 }
