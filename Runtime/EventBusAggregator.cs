@@ -1,3 +1,4 @@
+#if EBUS_LOG
 using System;
 using UnityEngine;
 
@@ -21,3 +22,4 @@ namespace EBus
 #endif
     }
 }
+#endif
