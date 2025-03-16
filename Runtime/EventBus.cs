@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using UnityEngine;
-#if UNITY_EDITOR
+#if EBUS_ADVANCED_LOG
 using System.Text;
 #endif
 
